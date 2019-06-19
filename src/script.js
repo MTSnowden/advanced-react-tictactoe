@@ -1,4 +1,3 @@
-
 import React, { Component } from 'react';
 
 // $(document).ready(function () {
@@ -14,8 +13,20 @@ import React, { Component } from 'react';
 //       turn = 'O';
 //       }
 //     }
-//   })
+//   });
 
+
+
+// building the functionality of the game 
+
+// function playGame() {
+//     let turn = 'X';
+//     document.getElementById('[data-cell]').onclick(function() {
+//         if this.text()
+//     }
+//     })
+
+// }
 
 
 // function checkForWin(){
